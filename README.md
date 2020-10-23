@@ -1,3 +1,11 @@
+### Hey there, I'm Daisaku Hazui :wave:
+
+Hey there! I'm Daisaku Hazui, a web developer from Japan. :jp:
+
+- :house_with_garden: &nbsp; I'm currently working at Home.
+- :seedling: &nbsp; I'm studying to speak English.
+- :star2: &nbsp; Fan fact: Drum :drum: , Video Game :video_game: , Driving :car:
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daisakuhazui&count_private=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisakuhazui&layout=compact&count_private=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
