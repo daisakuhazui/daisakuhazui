@@ -3,7 +3,7 @@
 Hey there! I'm Daisaku Hazui, a software engineer from Japan. :jp:
 
 - :house_with_garden: &nbsp; I'm currently working at Home.(I live in Kyushu.)
-- :man-woman-girl: That's my Life.
+- :heart_eyes: Spending time with family is the most important thing in my life.
 - :seedling: &nbsp; I'm studying to speak English.
 - :star2: &nbsp; Fun Fact: Drum :drum: , Video Game :video_game: , Driving :car: , Reading :books:
 
