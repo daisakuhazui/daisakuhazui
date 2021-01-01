@@ -1,6 +1,7 @@
 ### Hey there, I'm Daisaku Hazui :wave:
 
-Hey there! I'm Daisaku Hazui, a software engineer from Japan. :jp:
+Hey there! I'm Daisaku Hazui, a software engineer from Japan. :jp:\
+I live with my wife and daughter in Oita, ONSEN-Prefecture!!
 
 - :house_with_garden: &nbsp; I'm currently working at Home.(I live in Kyushu.)
 - :heart_eyes: &nbsp; Spending time with family is the most important thing in my life.
