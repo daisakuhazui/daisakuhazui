@@ -9,6 +9,8 @@ I live in Oita, ONSEN-Prefecture:bangbang: :hotsprings:
 - :seedling: &nbsp; I'm studying to speak English.
 - :star2: &nbsp; Fun Fact: Drum :drum: , Video Game :video_game: , Driving :car: , Reading :books:
 
+Nice to meet you :bangbang:
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daisakuhazui&count_private=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisakuhazui&layout=compact&count_private=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
