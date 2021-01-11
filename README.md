@@ -9,7 +9,7 @@ I am good at developing in Python.
 - :house_with_garden: &nbsp; I'm currently working at Home.(I live in Kyushu.)
 - :heart_eyes: &nbsp; Spending time with family is the most important thing in my life.
 - :seedling: &nbsp; I'm studying to speak English.
-- :star2: &nbsp; Fun Fact: Drum :drum: , Reading :books: , Video Game :video_game: , Driving :car:
+- :star2: &nbsp; Fun Fact: Drum :drum: , Reading :books: , Cooking :spaghetti: :meat_on_bone: , Video Game :video_game: , Driving :car:
 
 Nice to meet you :bangbang:
 
