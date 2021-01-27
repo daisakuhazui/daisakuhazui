@@ -12,6 +12,7 @@ I am good at developing in Python language in AWS environment.
 - :star2: &nbsp; Fun Fact: Drum :drum: :notes: , Reading :book: :books: , Cooking :spaghetti: :meat_on_bone: , Video Game :video_game: , Driving :car: :mount_fuji:
 
 Nice to meet you :bangbang: :grin:
+P.S. Last year, my wife gave birth to our daughter.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daisakuhazui&count_private=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisakuhazui&layout=compact&count_private=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
