@@ -8,7 +8,7 @@ I am good at developing in Python language in AWS environment.
 
 - :house_with_garden: &nbsp; I'm currently working at Home.(I live in Kyushu.)
 - :heart_eyes: &nbsp; Spending time with family is the most important thing in my life.
-- :seedling: &nbsp; I'm studying to speak English. I would like to live in an English-speaking mouth.
+- :seedling: &nbsp; I'm studying to speak English. I would like to live in an English-speaking country.
 - :star2: &nbsp; Fun Fact: Drum :drum: :notes: , Reading :book: :books: , Cooking :spaghetti: :meat_on_bone: , Video Game :video_game: , Driving :car: :mount_fuji:
 
 Nice to meet you :bangbang: :grin:
