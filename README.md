@@ -14,7 +14,7 @@ I am good at developing in Python language in AWS environment.
 
 Nice to meet you :bangbang: :grin:
 
-P.S. Last year, my wife gave birth to our daughter.
+Motto: Akıl yaşta değil baştadır.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daisakuhazui&count_private=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisakuhazui&layout=compact&count_private=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
