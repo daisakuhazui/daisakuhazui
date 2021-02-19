@@ -27,6 +27,8 @@ Motto: Akıl yaşta değil baştadır.(Intelligence is in the head, not the age.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=daisakuhazui&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Outputs
+
 <p align="left">
   <a href="http://qiita.com/hz1_d">
     <img height="30" src="https://qiita-badge.apiapi.app/s/hz1_d/posts.svg" />
