@@ -7,6 +7,18 @@ I live in Oita, ONSEN-Prefecture:bangbang: :hotsprings:
 
 I am good at developing in Python language in AWS environment.
 
+## Skil sets
+
+- Python
+- Django
+- Ruby
+- Ruby on Rails
+- JavaScript
+- Vue.js
+- Nuxt.js
+- AWS
+- Terraform
+
 ## My preferences
 
 - :house_with_garden: &nbsp; I'm currently working at Home.(I live in Kyushu.) :hotsprings:
