@@ -13,6 +13,7 @@ I am good at developing in Python language in AWS environment.
 - Django
 - Ruby
 - Ruby on Rails
+- Golang
 - JavaScript
 - Vue.js
 - Nuxt.js
