@@ -15,6 +15,7 @@ I am good at developing in Ruby language in AWS environment.
 - Django
 - Golang
 - JavaScript
+- Typescript
 - Vue.js
 - Nuxt.js
 - React
