@@ -17,6 +17,7 @@ I am good at developing in Python language in AWS environment.
 - JavaScript
 - Vue.js
 - Nuxt.js
+- React
 - AWS
 - Terraform
 
