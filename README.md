@@ -9,10 +9,10 @@ I am good at developing in Ruby language in AWS environment.
 
 ## Skil sets
 
-- Python
-- Django
 - Ruby
 - Ruby on Rails
+- Python
+- Django
 - Golang
 - JavaScript
 - Vue.js
