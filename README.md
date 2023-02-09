@@ -5,7 +5,7 @@ Hey there! \
 I'm Daisaku Hazui, a software engineer from Japan. :jp:\
 I live in Oita, ONSEN-Prefecture:bangbang: :hotsprings:
 
-I am good at developing in Python language in AWS environment.
+I am good at developing in Ruby language in AWS environment.
 
 ## Skil sets
 
