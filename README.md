@@ -2,10 +2,14 @@
 
 Hey there! \
 \
-I'm Daisaku Hazui, a software engineer from Japan. :jp:\
-I live in Oita, ONSEN-Prefecture:bangbang: :hotsprings:
 
-I am good at developing in Ruby language in AWS environment.
+Thank you for reading this page.
+My name is Daisaku Hashii.
+I am a software engineer living in Oita Prefecture, Japan :jp: , also known as Onsen Prefecture:bangbang: :hotsprings:
+
+I specialize in Ruby on Rails and Django development work in AWS environment.
+
+I look forward to working with you.
 
 ## Skil sets
 
