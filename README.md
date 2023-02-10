@@ -1,10 +1,9 @@
 ## Hey there, I'm Daisaku Hazui :wave:
 
-Hey there! \
-
+Hey there!
 
 Thank you for reading this page. \
-My name is Daisaku Hazui. \
+My name is Daisaku Hazui.
 
 I am a software engineer living in Oita Prefecture, Japan :jp: , also known as Onsen Prefecture:bangbang: :hotsprings:
 
