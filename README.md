@@ -24,6 +24,8 @@ I look forward to working with you.
 - Nuxt.js
 - React
 - AWS
+  - AWS Certified DevOps Engineer - Professional
+  - AWS Certified Solutions Architect - Associate
 - Terraform
 
 ## My preferences
