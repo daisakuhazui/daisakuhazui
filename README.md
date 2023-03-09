@@ -20,6 +20,7 @@ I look forward to working with you.
 - Golang
 - JavaScript
 - Typescript
+- Node.js
 - Vue.js
 - Nuxt.js
 - React
